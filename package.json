@@ -1,0 +1,25 @@
+{
+  "name": "vjezba_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaern/test_vjezba_23_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaern/test_vjezba_23_2/issues"
+  },
+  "homepage": "https://github.com/Amaern/test_vjezba_23_2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
